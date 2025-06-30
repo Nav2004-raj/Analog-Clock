@@ -15,11 +15,6 @@ A simple and responsive Analog Clock web application built using HTML, CSS, and 
 - **CSS3** – for styling the clock and adding animation.
 - **JavaScript** – for real-time clock functionality.
 
-## 📸 Demo
-
-![Analog Clock Screenshot](screenshot.png)  
-> *(You can add a screenshot of your project here)*
-
 ## 🧠 What I Learned
 
 - Manipulating DOM with JavaScript
@@ -27,4 +22,3 @@ A simple and responsive Analog Clock web application built using HTML, CSS, and 
 - CSS transforms and transitions
 - Basic responsive design principles
 
-## 📁 Folder Structure
